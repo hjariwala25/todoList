@@ -5,6 +5,9 @@
   text-align: center;
   
 }
+body{
+  background-color: rgb(23 40 66);
+}
 
 .logo {
   height: 6em;
